@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+<id>6</id>
+<menu>
+	<submenu>
+		<title>Електронні форми звітності</title>			
+		<item>
+			<title>Конструктор електронних форм звітності</title>		
+			<module>data-eform-constructor</module>		
+		</item>	
+		<item>
+			<title>Оновлення модулю: Конструктор електронних форм звітності</title>		
+			<module>core-module-update</module>	
+			<Params>
+				<Param><Name>module_id</Name><Value>data-eform-constructor</Value></Param>
+			</Params>												
+		</item>			
+		<item>
+			<title>Управління електронними формами звітності</title>		
+			<module>data-eform-manager</module>		
+		</item>								
+		<item>
+			<title>Відображення електронної форми "Оперативна інформація про обсяги виконаних робіт з будівництва, реконструкції, капітального та поточного ремонту автомобільних доріг і обсяги незавершеного будівництва"</title>		
+			<module>data-eform-viewer</module>
+			<Params>
+				<Param><Name>eform</Name><Value>eform1.xml</Value></Param>
+				<Param><Name>startdate</Name><Value>2012-01-01</Value></Param>	
+				<Param><Name>expireddate</Name><Value>2020-12-31</Value></Param>							
+			</Params>		
+		</item>						
+	</submenu>
+</menu>
+</profile>

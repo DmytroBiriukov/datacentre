@@ -1,0 +1,75 @@
+#doc_constructor, #doc_info
+{
+	border-bottom: 1px solid black;
+}
+
+#doc_content
+{
+	
+}
+
+.absolute_element
+{
+	position: absolute;
+}
+
+#doc_selectable
+{
+	position: absolute;
+	border: 1px solid yellow;
+	background-color: yellow;
+}
+
+.constructor
+{
+	width: auto;
+}
+
+.constructor td
+{
+	height: auto;
+}
+
+#doc_table
+{
+	width: auto;
+}
+
+.doc_content td
+{
+	border: 1px solid black;
+	height: auto;
+}
+
+.doc_header td
+{
+	border: 2px solid black;
+}
+
+#doc_menu_panel td
+{
+	border: 2px solid black;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 3px 3px 3px;
+    border-collapse:collapse;
+    width: 200px;
+}
+#doc_menu_panel
+{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+    border-collapse:collapse;	
+    background-color:#fff4c8;
+	margin: 0px auto;	
+}
+
+#doc_menu_panel p
+{
+	width: 200px;
+}
+
+#doc_menu_panel h3
+{
+	font-weight: bold;
+	font-size:14px;
+}

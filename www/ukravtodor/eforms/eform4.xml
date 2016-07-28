@@ -1,0 +1,204 @@
+<Content>
+<DataTable>operative_data</DataTable>
+<Key></Key>
+<Condition><Query>SELECT  FROM operative_data WHERE </Query>
+<Params><Param><Name>id_region</Name>
+<Val>27</Val>
+</Param>
+<Param><Name>start_month</Name>
+<Val>2012</Val>
+</Param>
+<Param><Name>end_month</Name>
+<Val>undefined</Val>
+</Param>
+</Params>
+</Condition>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>0</id>
+<EntityType>numerator</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>1</id>
+<EntityType>numerator</EntityType>
+<Entity><Entity>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>2</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>3</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>4</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=57px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>5</id>
+<EntityType>input</EntityType>
+<Entity><DataField></DataField>
+<DataTable>operative_data</DataTable>
+<DataType>char</DataType>
+<DataFormat></DataFormat>
+<Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=17px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>6</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=57px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>7</id>
+<EntityType>input</EntityType>
+<Entity><DataField></DataField>
+<DataTable>operative_data</DataTable>
+<DataType>char</DataType>
+<DataFormat></DataFormat>
+<Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=17px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>8</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>9</id>
+<EntityType>numerator</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>10</id>
+<EntityType>input</EntityType>
+<Entity><DataField></DataField>
+<DataTable>operative_data</DataTable>
+<DataType>char</DataType>
+<DataFormat></DataFormat>
+<Entity>
+</Cell>
+</Row>
+</Content>
+<Content>
+<DataTable>operative_data</DataTable>
+<Key></Key>
+<Condition><Query>SELECT  FROM operative_data WHERE </Query>
+<Params><Param><Name>id_region</Name>
+<Val>27</Val>
+</Param>
+<Param><Name>start_month</Name>
+<Val>2012</Val>
+</Param>
+<Param><Name>end_month</Name>
+<Val>undefined</Val>
+</Param>
+</Params>
+</Condition>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>0</id>
+<EntityType>numerator</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>1</id>
+<EntityType>numerator</EntityType>
+<Entity><Entity>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>2</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>3</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>4</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=57px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>5</id>
+<EntityType>input</EntityType>
+<Entity><DataField></DataField>
+<DataTable>operative_data</DataTable>
+<DataType>char</DataType>
+<DataFormat></DataFormat>
+<Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=17px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>6</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=57px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>7</id>
+<EntityType>input</EntityType>
+<Entity><DataField></DataField>
+<DataTable>operative_data</DataTable>
+<DataType>char</DataType>
+<DataFormat></DataFormat>
+<Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=17px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>8</id>
+<EntityType>text</EntityType>
+<Entity><Entity>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>9</id>
+<EntityType>numerator</EntityType>
+<Entity><Entity>
+</Cell>
+<Cell>
+<htm>rowspan=1 colspan=1 width=77px height=13px color=rgb(0, 0, 0) background-color=rgb(175, 192, 205) font-weight=400 font-style=normal text-decoration=none font-size=12px padding-left=0px padding-bottom=0px padding-top=0px text-align=left</htm>
+<id>10</id>
+<EntityType>input</EntityType>
+<Entity><DataField></DataField>
+<DataTable>operative_data</DataTable>
+<DataType>char</DataType>
+<DataFormat></DataFormat>
+<Entity>
+</Cell>
+</Row>
+</Content>

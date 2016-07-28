@@ -1,0 +1,121 @@
+#map_panel 
+{   position: relative;
+    width: 1200px;
+    height: 500px;
+}
+#map 
+{   float: left;
+    clear: both;
+    position: relative;
+    width: 1250px;
+    height: 600px;
+    border: 1px solid black;
+}
+#update_place 
+{   float: right;
+    width: 380px;
+    height: 600px;
+    border: 1px solid black;
+}
+.update-table {
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.name {
+    color: #FFFFFF;
+    width: 350px;
+}
+
+.name_update {
+    width: 100px;
+}
+
+.numbway {
+    color: #FFFFFF;
+    width: 350px;
+}
+
+.numbway_update {
+    width: 100px;
+}
+
+.description {
+    color: #FFFFFF;
+    width: 350px;
+}
+.description_update {
+    width: 100px;
+}
+
+.customEditingToolbar {
+    float: right;
+    right: 0px;
+    height: 30px; 			
+}
+
+.customEditingToolbar div {
+    float: right;
+    margin: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.olControlNavigationItemActive { 
+    background-image: url("/css/ol/img/editing_tool_bar.png");
+    background-repeat: no-repeat;
+    background-position: -103px -23px; 
+}
+.olControlNavigationItemInactive { 
+    background-image: url("/css/ol/img/editing_tool_bar.png");
+    background-repeat: no-repeat;
+    background-position: -103px -0px; 
+}
+.olControlModifyFeatureItemActive { 
+    background-image: url("/css/ol/img/move_feature_on.png");
+    background-repeat: no-repeat;
+    background-position: 0px 1px;
+}
+.olControlModifyFeatureItemInactive { 
+    background-image: url("/css/ol/img/move_feature_off.png");
+    background-repeat: no-repeat;
+    background-position: 0px 1px;
+}
+.olControlDeleteFeatureItemActive { 
+    background-image: url("/css/ol/img/remove_point_on.png");
+    background-repeat: no-repeat;
+    background-position: 0px 1px;
+}
+.olControlDeleteFeatureItemInactive { 
+    background-image: url("/css/ol/img/remove_point_off.png");
+    background-repeat: no-repeat;
+    background-position: 0px 1px;
+}
+.olControlDrawFeaturePathItemInactive { 
+    background-image: url("/css/ol/img/editing_tool_bar.png");
+    background-repeat: no-repeat;
+    background-position: -51px 0px; 
+}
+.olControlDrawFeaturePathItemActive { 
+    background-image: url("/css/ol/img/editing_tool_bar.png");
+    background-repeat: no-repeat;
+    background-position: -51px -23px ;                                                                   
+}
+.olControlMouseDefaultsItemActive { 
+    background-color: blue;
+    background-image: url("/css/ol/img/pan_on.png");
+}
+.olControlMouseDefaultsItemInactive { 
+    background-color: orange;
+    background-image: url("/css/ol/img/pan_off.png");
+}
+.olControlPrintItemActive 
+{   background-color: blue;
+    background-image: url("/css/ol/img/print-button_on.png");
+}
+.olControlPrintItemInactive 
+{   background-color: orange;
+    background-image: url("/css/ol/img/print-button_off.png");
+}	
+
+	

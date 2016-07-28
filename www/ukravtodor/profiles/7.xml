@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+<id>7</id>
+<menu>
+	<submenu>
+		<title>Електронні карти</title>			
+		<item>
+			<title>Автомобільні дороги</title>		
+			<module>gis-roadmap</module>		
+		</item>	
+		<item>
+			<title>Візуалізація даних: побудова діаграм та графіків</title>		
+			<module>gis-charts-2</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Оновлення модулю: Візуалізація даних</title>		
+			<module>core-module-update</module>	
+			<Params>
+				<Param><Name>module_id</Name><Value>gis-charts-2</Value></Param>
+			</Params>												
+		</item>		
+		<item>
+			<title>Друкування карти з діаграмами</title>			
+			<module>gis-print</module>
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat_chart</Value></Param>						
+			</Params>					
+		</item>								
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Перевезення вантажів автомобільним транспортом за 2009 р., млн.т. </title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Перевезення вантажів автомобільним транспортом за 2008 р., млн.т.</title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat2</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Вантажооборот автомобільного транспорту за рік 2009 р., млн. ткм</title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat3</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Середня відстань перевезення однієї тонни вантажів
+автомобільним транспортом за 2009 р., км</title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat4</Value></Param>						
+			</Params>					
+		</item>									
+	</submenu>
+</menu>
+</profile>

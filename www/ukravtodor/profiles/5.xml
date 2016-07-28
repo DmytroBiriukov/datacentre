@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+<id>1</id>
+<menu>
+	<submenu>
+		<title>Форми звітності</title>			
+		<item>
+			<title>Конструктор електронних форм звітності</title>		
+			<module>data-eform-constructor</module>		
+		</item>	
+		<item>
+			<title>Оновлення модулю: Конструктор електронних форм звітності</title>		
+			<module>core-module-update</module>	
+			<Params>
+				<Param><Name>module_id</Name><Value>data-eform-constructor</Value></Param>
+			</Params>												
+		</item>								
+		<item>
+			<title>Управління електронними формами звітності</title>		
+			<module>data-eform-manager</module>		
+		</item>	
+		<item>
+			<title>Доступ до електронних форм звітності</title>		
+			<module>data-eform-access</module>		
+		</item>			
+		<item>
+			<title>Відображення електронної форми "Оперативна інформація про обсяги виконаних робіт з будівництва, реконструкції, капітального та поточного ремонту автомобільних доріг і обсяги незавершеного будівництва"</title>		
+			<module>data-eform-viewer</module>
+			<Params>
+				<Param><Name>eform</Name><Value>eform1.xml</Value></Param>
+				<Param><Name>startdate</Name><Value>2012-01-01</Value></Param>	
+				<Param><Name>expireddate</Name><Value>2020-12-31</Value></Param>							
+			</Params>		
+		</item>	
+		<item>
+			<title>Оперативне виконання по ремонтах доріг загального користування за рахунок кредитних коштів (розпорядження КМУ № 269-р, 312-р та 763-р)</title>		
+			<module>data-table-operative-2</module>
+			<Params>
+				<Param><Name>eform</Name><Value>eform2.xml</Value></Param>
+				<Param><Name>startdate</Name><Value>січень</Value></Param>	
+				<Param><Name>expireddate</Name><Value>серпень</Value></Param>
+				<Param><Name>reg_id</Name><Value>2</Value></Param>
+			</Params>		
+		</item>	
+		
+		<item>
+			<title>Ф-2</title>		
+			<module>data-table-F2</module>
+			<Params>
+				<Param><Name>year</Name><Value>2012</Value></Param>
+				<Param><Name>region</Name><Value>1</Value></Param>	
+				<Param><Name>ondate</Name><Value>2012-10-10</Value></Param>
+			</Params>		
+		</item>			
+									
+	</submenu>
+	<submenu>
+		<title>Електронні карти</title>			
+		<item>
+			<title>Автомобільні дороги</title>		
+			<module>gis-roadmap</module>		
+		</item>	
+		<item>
+			<title>Візуалізація даних: побудова діаграм та графіків</title>		
+			<module>gis-charts-2</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Друкування карти з діаграмами</title>			
+			<module>gis-print</module>
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat_chart</Value></Param>						
+			</Params>					
+		</item>								
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Перевезення вантажів автомобільним транспортом за 2009 р., млн.т. </title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Перевезення вантажів автомобільним транспортом за 2008 р., млн.т.</title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat2</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Вантажооборот автомобільного транспорту за рік 2009 р., млн. ткм</title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat3</Value></Param>						
+			</Params>					
+		</item>	
+		<item>
+			<title>Кластерізація регіонів за рівнем показника: Середня відстань перевезення однієї тонни вантажів
+автомобільним транспортом за 2009 р., км</title>		
+			<module>gis-charts</module>	
+			<Params>
+				<Param><Name>layer</Name><Value>view_stat4</Value></Param>						
+			</Params>					
+		</item>									
+	</submenu>
+	<submenu>
+		<title>Адміністрування</title>			
+		<item>
+			<title>Створити групу користувачів</title>		
+			<module>core-create-user-group</module>		
+		</item>
+		<item>
+			<title>Створити профіль користувача</title>		
+			<module>core-create-user-profile</module>		
+		</item>					
+		<item>
+			<title>Створити обліковий запис користувача</title>		
+			<module>core-create-user</module>		
+		</item>	
+		<item>
+			<title>Список користувачів</title>		
+			<module>core-users</module>		
+		</item>								
+		<item>
+			<title>Інсталювати модуль</title>		
+			<module>core-install-module</module>		
+		</item>	
+		<item>
+			<title>Показники моніторингу</title>		
+			<module>core-criteria</module>		
+		</item>							
+	</submenu>	
+</menu>
+</profile>
